@@ -1,0 +1,3 @@
+/Users/ageudepetris/Library/CloudStorage/OneDrive-UNIVERSIDADDEHUELVA/Segundo/EDII/CLION/cmake-build-debug/CMakeFiles/CLION.dir
+/Users/ageudepetris/Library/CloudStorage/OneDrive-UNIVERSIDADDEHUELVA/Segundo/EDII/CLION/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ageudepetris/Library/CloudStorage/OneDrive-UNIVERSIDADDEHUELVA/Segundo/EDII/CLION/cmake-build-debug/CMakeFiles/rebuild_cache.dir
